@@ -5,7 +5,9 @@ By Brandon Dusek, Robert Hayek, & Jerry Urizar
 Within the program, majority of the code involving
 the use of opencv and other facial recognition
 libraries were directly referenced from the following
-github repositiory:
+github repositiory. From this same repository the creation
+of our systems training set and the code which trained our
+system are also found within this repository:
 https://github.com/carolinedunn/facial_recognition
 
 This program emulates a safe with IoT and facial
